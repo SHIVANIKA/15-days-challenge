@@ -20,7 +20,7 @@ public class FirstClass {
 
 OUTPUT:
 
-Newx =33442
+Newx =334420
 Newy =121
 Newz =40
 neww =3395370
