@@ -17,7 +17,7 @@ public class FirstClass {
 
             if(NewGameOver==false){
                 int SecondFinalScore = SecondScore + (NextLevelCompleted * NextBonus);
-                System.out.println("SecondFinalScore = "+ SecondFinalScore);
+                System.out.println("SecondFinalScore = "+ SecondFinalScore)
             }
 
 OUTPUT
